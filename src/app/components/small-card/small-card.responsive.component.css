@@ -1,0 +1,36 @@
+@media screen and (max-width: 720px) {
+    .container__small-card{
+        width: 300px;
+    }
+    .container__small-card-content{
+        height: 143px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px 1px  rgb(53, 53, 53);
+        margin-bottom: 10px;
+        display: flex;
+        margin-left: 10px;
+    }
+    .container__small-photo > img {
+        width: 50%;
+        min-width: 100px;
+        height: 143px;
+        border-radius: 5px;
+        margin-left: 1px;
+        align-items: center;
+    }
+
+    .container__small-title > h1 > a{
+        width: 100%;
+        color: white;
+        font-size: 9px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        display: flex;
+        text-align: center;
+        justify-self: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+}
+  

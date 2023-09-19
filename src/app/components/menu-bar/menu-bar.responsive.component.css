@@ -1,0 +1,29 @@
+@media screen and (max-width: 720px) {
+  .container__menu-bar {
+    margin-top: 10px;
+  }
+  .container__menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .container__menu-social > li > a {
+    color: white;
+    margin-right: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .container__menu-bar-hr{
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .container__menu-icon > a > img{
+    position: fixed;
+    color: white;
+    margin-left: 80%;
+    height: 30px;
+    box-shadow: 0px 0px 5px 1px  rgb(155, 0, 0);
+  }
+}

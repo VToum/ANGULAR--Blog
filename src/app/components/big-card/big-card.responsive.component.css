@@ -1,0 +1,33 @@
+@media screen and (max-width: 720px) {
+    .container__big-card{
+        width: 250px;
+        height: 600px;
+
+        box-shadow: 0px 0px 10px 1px  rgb(53, 53, 53);
+        border-radius: 5px;
+        margin-right: 5px;
+        margin-left: 20px;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        justify-content: flex-start;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+    .big-card__photo > img {
+        width: 100%;
+        min-width: 100px;
+    }
+    .big-card__title > h1 > a {
+        margin-left: 20px;
+        color: white;
+        font-size: 12px;
+    }
+    .big-card__text > p > a{
+        margin-left: 20px;
+        font-size: 8px;
+        display:  flex;
+        text-align: left;
+        color: grey;
+    }
+}
