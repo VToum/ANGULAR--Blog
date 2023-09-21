@@ -1,27 +1,24 @@
-# AngularBlog
+AngularBlog
+Então, não espere mais! Escolha um repositório interessante, clique no botão "Clonar" e comece a explorar, aprender e contribuir. A comunidade de desenvolvedores está pronta para receber você de braços abertos. Junte-se a essa jornada emocionante de desenvolvimento de software e compartilhamento de conhecimento! Clone agora e comece a fazer a diferença no mundo da tecnologia.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+para rodar os projetos em Angular siga o passo a passo.
 
-## Development server
+1 - copie o link: https://github.com/VToum/AngularBlog.git
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+2 - Criei uma pasta no seu computador
 
-## Code scaffolding
+3 - na barra de cima exemplo: C:\Users\eleao\Desktop\teste -- digite cmd e de enter
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+4 - ao abrir o promp digite: git clone https://github.com/VToum/AngularBlog.git
 
-## Build
+5 - digite cd AngularBlog
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+6 - digite code . assim irá abrir o VSCode
 
-## Running unit tests
+7 - escolha no terminal command prompt
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+8 - npm install
 
-## Running end-to-end tests
+9 - ng serve
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Feito!
